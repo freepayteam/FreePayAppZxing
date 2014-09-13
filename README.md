@@ -1,0 +1,4 @@
+FreePayAppZxing
+===============
+
+Libreria barcode scanner 
